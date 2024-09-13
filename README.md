@@ -15,11 +15,12 @@ The Titanic dataset provides details about passengers on board, including their 
 * Matplotlib
 * Seaborn
 ## Data Cleaning
-cleaning steps:
+Cleaning steps:
 * Handling missing values.
 * Dropping duplicate rows.
 * Duplicate columns check.
 * Data Format check
+* Outlier check
 * Changing Datatype
 ## Exploratory Data Analysis
 * Univariate analysis.
@@ -30,10 +31,10 @@ A few of the visualization highlights are:
 ![Correlation Heatmap](img/univariate.png)
 ![Correlation Heatmap](img/bivariate.png)
 ## Findings & Insights
-**Survival Rate**: The overall survival rate was approximately 38%.
-**Gender**: Females had a much higher survival rate compared to males.
-**Class**: Passengers in first class had a significantly higher survival rate.
-**Age**: Younger passengers, particularly children, had higher survival rates.
+* Survival Rate: The overall survival rate was approximately 38%.
+* Gender: Females had a much higher survival rate compared to males.
+* Class: Passengers in first class had a significantly higher survival rate.
+* Age: Younger passengers, particularly children, had higher survival rates.
 
 
   
