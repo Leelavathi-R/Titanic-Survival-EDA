@@ -20,3 +20,4 @@ cleaning steps:
 *  Correlation Analysis
 ## Key Visualizations
 A few of the visualization highlights are:
+![Correlation Heatmap](img/univariate.png)
