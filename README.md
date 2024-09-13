@@ -15,4 +15,8 @@ cleaning steps:
 * Data Format check
 * Changing Datatype
 ## Exploratory Data Analysis
+* Univariate analysis.
+* Bivariate Analysis.
+*  Correlation Analysis
+## Key Visualizations
 A few of the visualization highlights are:
